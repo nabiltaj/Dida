@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alert Sample</string>
+    <string name="tap_test">Tap Test</string>
+    <string name="Alert_button">Alert</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AkuBisa</string>
+    <string name="choose_datetime">Choose  The Date and Time</string>
+    <string name="date_button">Date</string>
+    <string name="time_button">Time</string>
+    <string name="date_picker">DatePicker</string>
+    <string name="time_picker">TimePicker</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+
+
+</resources>

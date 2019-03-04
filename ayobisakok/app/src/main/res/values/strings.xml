@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">udahbisa</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">masukkan pesan</string>
+    <string name="button_second">button second</string>
+    <string name="editText_second">edit text second</string>
+    <string name="text_header_reply">text header rply</string>
+    <string name="text_message_reply">message</string>
+    <string name="button_main">button main</string>
+    <string name="editText_main">editText main</string>
+    <string name="send">SEND</string>
+</resources>
